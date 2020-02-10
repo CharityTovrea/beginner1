@@ -1,0 +1,11 @@
+/** BODY **/
+body {
+	background-color: #AEAEAE;
+	margin: 0;
+}
+
+/** SITE WRAPPER **/
+.wrapper {
+	margin: 0 auto;
+	width: 80%;
+}
